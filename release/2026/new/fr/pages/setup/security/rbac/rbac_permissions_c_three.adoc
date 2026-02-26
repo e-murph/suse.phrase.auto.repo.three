@@ -66,7 +66,7 @@ endif::[]
 
 |autorisations restreintes
 |update\^[1]^
-|Gérer les autorisations de portée, en accordant (ou en révoquant) l'accès à la topologie, aux mesures et aux traces à partir d'une seule grappe.
+|Gérer les autorisations de portée, accorder (ou révoquer) l'accès à la topologie, aux métriques et aux traces à partir d'un seul cluster.
 
 |scripts
 |exécuter
